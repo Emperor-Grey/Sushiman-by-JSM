@@ -163,7 +163,7 @@ a {
 }
 /* END: about us media queries */
 
-/* START: header media querie */
+/* START: header media queries */
 @media screen and (max-width: 900px) {
   .header__nav {
     background: var(--primary-color);
